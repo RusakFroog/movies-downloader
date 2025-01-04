@@ -1,0 +1,16 @@
+{
+    "app": {
+        "title": "Movies Downloader"
+    },
+    
+    "components": {
+        "header": {
+            "movies": "Movies",
+            "series": "Series",
+            "dramas": "Dramas",
+            "actions": "Actions",
+            "comedies": "Comedies",
+            "signIn": "Sign In"
+        }
+    }
+}
